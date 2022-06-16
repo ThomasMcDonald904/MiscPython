@@ -1,0 +1,6 @@
+username:salt:password
+thomas123:b'$2b$12$VWNp7o/zMpnfrCqsSE/1MO':b'$2b$12$VWNp7o/zMpnfrCqsSE/1MOzvqww4FTyf8zmaBJIMUI8jFd1gdsAt2'
+james2:b'$2b$12$Dm2tn2U9UKZvbgoP1TxvCO':b'$2b$12$Dm2tn2U9UKZvbgoP1TxvCO5sZp9B0JL0TFZQToRu0lT5uHP88MfNO'
+
+naynaytom3000:b'$2b$12$SOFn215YG00UK7OwfEvNEe':b'$2b$12$SOFn215YG00UK7OwfEvNEe8tQTREa6s4yxroqC69NDg.k9ujpH9FC'
+MrMathys:b'$2b$12$LlKGU9hbw4qtRrgvcBAnSO':b'$2b$12$LlKGU9hbw4qtRrgvcBAnSOaUwAJRbB7PFpX7CUuG5kJaLJx7TUWfi'
